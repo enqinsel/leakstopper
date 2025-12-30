@@ -1,0 +1,21 @@
+müşteri_adi,eposta,telefon_numarasi,sirket,son_satin_alma,toplam_tutar,satin_alma_sayisi,favori_urun
+Ahmet Yılmaz,ahmet.yilmaz@email.com,05321234567,ABC Holding,2025-12-20,25000,15,Vitamin D
+Mehmet Demir,mehmet.demir@gmail.com,05551112233,XYZ Ltd,2025-12-15,18500,12,Omega 3
+Ayşe Kaya,ayse@company.com,05339876543,,2025-12-01,8000,5,Probiyotik
+Fatma Öztürk,fatma.ozturk@firma.com.tr,05421234567,Fatma Ticaret,2025-11-15,15000,8,Vitamin B12
+Ali Çelik,ali.celik@test.com,05501234567,,2025-10-01,32000,20,Multivitamin
+Zeynep Arslan,zeynep@arslangroup.com,05661234567,Arslan Group,2025-09-15,12000,6,Zinc
+Mustafa Şahin,mustafa.sahin@email.com,05771234567,,2025-08-01,5500,3,Biotin
+Elif Yıldırım,elif@yildirim.com,05881234567,Yıldırım AŞ,2025-07-01,45000,25,Demir
+Hasan Koç,hasan.koc@gmail.com,05991234567,,2025-06-01,2500,2,Magnezyum
+Merve Aydın,merve.aydin@hotmail.com,05111234567,Aydın Ltd,2025-05-01,8500,4,Kalsiyum
+Burak Can,burak@canholding.com,05221234567,Can Holding,2025-04-01,72000,35,Premium Set
+Seda Güneş,seda.gunes@email.com,05331234567,,2025-03-01,3200,2,C Vitamini
+Emre Özkan,emre@ozkan.com.tr,05441234567,Özkan Tic,2025-02-01,18000,10,E Vitamini
+Deniz Yalçın,deniz.yalcin@gmail.com,05551234568,,2025-01-01,6500,4,Koenzim Q10
+Canan Arslan,canan@arslan.net,05661234568,Arslan Net,2024-11-01,28000,15,B Kompleks
+Tolga Demirtaş,tolga@demirtas.org,05771234568,,2024-08-01,4200,3,Glutatyon
+Sibel Yılmaz,sibel.yilmaz@company.com,05881234568,Yılmaz Ltd,2024-06-01,55000,30,Altın Paket
+Kaan Erdoğan,kaan@erdogan.com,05991234568,,2024-04-01,1800,1,Deneme Paketi
+Pınar Şen,pinar.sen@email.com,05111234568,Şen Tic,2024-01-01,35000,18,Platin Set
+Serkan Acar,serkan.acar@gmail.com,05221234568,,2023-10-01,9500,5,Gümüş Paket
