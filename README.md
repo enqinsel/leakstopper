@@ -1,6 +1,7 @@
 # 🛑 LeakStopper AI: Müşteri Geri Kazanım Motoru
 
-![LeakStopper AI Banner](https://via.placeholder.com/1200x400/10b981/ffffff?text=LeakStopper+AI+Engine)
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/5ac54df9-7f4b-4637-a509-031fe953f2d9" />
+
 
 > **"Müşterileriniz cüzdanınızdan akıp gitmesin."**
 
